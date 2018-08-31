@@ -1,0 +1,14 @@
+http://www.cnblogs.com/lhking/p/3649512.html
+
+
+
+其中JsonVisualizer就是我需要的东西，
+
+直接编译，然后把JsonViewer.dll、JsonVisualizer.dll、Newtonsoft.Json.dll三个文件全部复制，
+
+到Vs2010的安装目录"Microsoft Visual Studio 10.0\Common7\Packages\Debugger\Visualizers"下
+
+
+
+
+Microsoft Visual Studio 10.0\Common7\Packages\Debugger\Visualizers

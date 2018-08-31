@@ -1,0 +1,17 @@
+E:\360云盘\文档\JSON Viewer\JsonView\bin\debug\JsonView.exe
+E:\360云盘\文档\JSON Viewer\JsonView\bin\debug\JsonView.pdb
+E:\360云盘\文档\JSON Viewer\JsonView\bin\debug\JsonViewer.dll
+E:\360云盘\文档\JSON Viewer\JsonView\bin\debug\Newtonsoft.Json.dll
+E:\360云盘\文档\JSON Viewer\JsonView\bin\debug\JsonViewer.pdb
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\ResolveAssemblyReference.cache
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\EPocalipse.Json.JsonView.AboutJsonViewer.resources
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\EPocalipse.Json.JsonView.MainForm.resources
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\EPocalipse.Json.JsonView.Properties.Resources.resources
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.read.4.tlog
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.write.4.tlog
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\JsonView.exe
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\JsonView.pdb
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.read.6.tlog
+E:\360云盘\文档\JSON Viewer\JsonView\obj\Debug\GenerateResource-ResGen.write.6.tlog

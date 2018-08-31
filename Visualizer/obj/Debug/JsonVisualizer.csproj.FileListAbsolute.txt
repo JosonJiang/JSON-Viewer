@@ -1,0 +1,11 @@
+E:\360云盘\文档\JSON Viewer\Visualizer\Bin\Debug\JsonVisualizer.dll
+E:\360云盘\文档\JSON Viewer\Visualizer\Bin\Debug\JsonVisualizer.pdb
+E:\360云盘\文档\JSON Viewer\Visualizer\Bin\Debug\JsonViewer.dll
+E:\360云盘\文档\JSON Viewer\Visualizer\Bin\Debug\Newtonsoft.Json.dll
+E:\360云盘\文档\JSON Viewer\Visualizer\Bin\Debug\JsonViewer.pdb
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\ResolveAssemblyReference.cache
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\EPocalipse.Json.Visualizer.JsonVisualizerForm.resources
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\GenerateResource-ResGen.read.1.tlog
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\GenerateResource-ResGen.write.1.tlog
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\JsonVisualizer.dll
+E:\360云盘\文档\JSON Viewer\Visualizer\obj\Debug\JsonVisualizer.pdb
